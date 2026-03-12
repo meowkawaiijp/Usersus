@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "client-lib",
+    "license-issuer",
+    "license-server",
+]
+resolver = "2"
